@@ -17,8 +17,11 @@ ____________________________________
 
 
 ### 📫 How to reach me: 
+____________________________________
 
+https://www.linkedin.com/in/dulat-kussainov/
 
+____________________________________
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dkussainov&theme=green-nur)](https://git.io/streak-stats)
 
