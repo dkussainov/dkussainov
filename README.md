@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on:
 ____________________________________
 * Startup project
-* Fantasy Fitness Competition App
+* Fantasy Fitness Competition App (https://fantasyfit.netlify.app/)
 
 ### 🌱 I’m currently learning:
 ____________________________________
