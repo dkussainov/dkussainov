@@ -21,3 +21,5 @@ ____________________________________
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dkussainov&theme=green-nur)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkussainov&layout=compact)](https://github.com/dkussainov)
