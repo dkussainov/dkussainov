@@ -7,7 +7,7 @@ Stack: Javascript, React JS, Next.js Ruby on Rails, and Django Rest Framework.I 
 ### 🔭 I’m currently working on:
 ____________________________________
 * Startup project ( ReactJS + Django Rest Framework)
-* Fantasy Fitness Competition App (https://fantasyfit.netlify.app/)
+* Fantasy Fitness Competition App (https://fantasyfit.netlify.app/) | ReactJS + Ruby on Rails
 
 ### 🌱 I’m currently learning:
 ____________________________________
