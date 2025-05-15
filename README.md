@@ -2,18 +2,11 @@
 
 ____________________________________
 I am currently gaining valuable experience in the industry. 
-Stack: Javascript, React JS, Next.js Ruby on Rails, and Django Rest Framework.I am excited to continue learning and growing as a software engineer while contributing to innovative and meaningful projects.
+Stack:Typescript, React, Gql, Zustand, ANTD, Ruby on Rails.I am excited to continue learning and growing as a software engineer while contributing to innovative and meaningful projects.
 
 ### 🔭 I’m currently working on:
 ____________________________________
-* Startup project | ReactJS + Ruby on Rails + DRF
-* Fantasy Fitness Competition App (https://fantasyfit.netlify.app/) | ReactJS + Ruby on Rails
-
-### 🌱 I’m currently learning:
-____________________________________
-* NextJS 13.4
-* ThreeJS
-* Django Rest Framework
+* Startup project | Typescript, React, Gql, Zustand, ANTD.
 
 
 ### 📫 How to reach me: 
