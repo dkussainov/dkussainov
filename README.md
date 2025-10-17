@@ -5,7 +5,7 @@ Stack:Typescript, React, Gql, Zustand, ANTD, Ruby on Rails.I am excited to conti
 
 ### 🔭 I’m currently working on:
 ____________________________________
-* Startup project | Typescript, React, Gql, Zustand, ANTD.
+* Startup project | Typescript, React, Gql, Zustand, ANTD, AG-Grid.
 
 
 ### 📫 How to reach me: 
