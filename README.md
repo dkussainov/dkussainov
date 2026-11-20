@@ -1,11 +1,10 @@
 ### Hi there, I'm Dulat 👋
 
 ____________________________________
-Stack:Typescript, React, Gql, Zustand, ANTD, Ruby on Rails.I am excited to continue learning and growing as a software engineer while contributing to innovative and meaningful projects.
 
-### 🔭 I’m currently working on:
-____________________________________
-* Startup project | Typescript, React, Gql, Zustand, ANTD, AG-Grid.
+I'm a full-stack software engineer building SpeCurate at Fohlio. I work across product development, frontend and backend systems, taking features from early ideas and prototypes through implementation and testing.
+
+My experience spans business software, data-intensive applications and AI-assisted workflows. I connect the user experience with the systems and business logic behind it, working mainly with TypeScript, React and Node.js, with contributions in Python.
 
 
 ### 📫 How to reach me: 
